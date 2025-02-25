@@ -1,0 +1,7 @@
+.mainContainer{
+    background-image: linear-gradient(white, grey);
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    height:100dvh;
+  }
